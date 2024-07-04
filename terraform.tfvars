@@ -1,0 +1,5 @@
+region        = "ap-south-1"
+ami           = "ami-01376101673c89611"
+instance_type = "t2.micro"
+vpc_cidr      = "10.0.0.0/16"
+subnet_cidr   = "10.0.10.0/28"
